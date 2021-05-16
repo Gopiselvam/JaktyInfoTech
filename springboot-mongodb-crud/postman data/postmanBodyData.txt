@@ -1,0 +1,47 @@
+[
+	{
+		"custId":143,
+		"name":"Gopiselvam",
+		"email":"gopiselvam96@gmail.com",
+		"contactNo":9655117017,
+		"dob":"{{date1}}",
+		"status":"Pending",
+		"outstanding":1500
+	},
+	{
+		"custId":826,
+		"name":"Rajakaruppiah",
+		"email":"dancer.of.the.city.np@gmail.com",
+		"contactNo":8870983769,
+		"dob": "{{date2}}",
+		"status":"Closed",
+		"outstanding":0
+	},
+	{
+		"custId":474,
+		"name":"Senthil kumar",
+		"email":"senthiljack28@gmail.com",
+		"contactNo":8072066542,
+		"dob": "{{date3}}",
+		"status":"Pending",
+		"outstanding":320
+	},
+	{
+		"custId":272,
+		"name":"Selvam Gopi",
+		"email":"selvamgopirgs@gmail.com",
+		"contactNo":9655117017,
+		"dob":  "{{date4}}",
+		"status":"Pending",
+		"outstanding":5000
+	},
+	{
+		"custId":397,
+		"name":"Muthu mama",
+		"email":"gopiselvam96@gmail.com",
+		"contactNo":9655117017,
+		"dob": "{{date5}}",
+		"status":"Closed",
+		"outstanding":0
+	}
+]

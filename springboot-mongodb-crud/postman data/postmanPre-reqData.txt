@@ -1,0 +1,5 @@
+pm.globals.set("date1", new Date("1996/08/12"));
+pm.globals.set("date2", new Date("1968/05/05"));
+pm.globals.set("date3", new Date("2000/08/28"));
+pm.globals.set("date4", new Date("1996/08/12"));
+pm.globals.set("date5", new Date("1970/12/05"));
